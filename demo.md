@@ -30,3 +30,6 @@ This is an unordered list:
 
 This is a link to my portfolio [My Portfolio](https://google.ca).
 
+## Images:
+
+![Yellow Tulips](desktop/school/markdown-demo/tulips.jpg).
