@@ -49,3 +49,12 @@ function test(){
     console.log("test");
 }
 ```
+
+
+## tables
+
+| Language  | rating |
+| --------- | ------ |
+| HTML      |5       |
+|JavaScript |7       |
+|CSS        |9       |
