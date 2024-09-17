@@ -33,3 +33,19 @@ This is a link to my portfolio [My Portfolio](https://google.ca).
 ## Images:
 
 ![Yellow Tulips](tulips.jpg).
+
+
+## Code:
+
+We can put inline code by using a tic. 
+
+to add an image use an `<img>` tag.  
+<!-- tic are next to the one on the keyboard top left of keyboard -->
+
+you can add multi-line code by adding three tics and the name of the coding langugage. 
+
+```
+function test(){
+    console.log("test");
+}
+```
