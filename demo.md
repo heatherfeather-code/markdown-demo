@@ -6,5 +6,6 @@ This is a demo for learning Markdown.
 
 This text is **bold**
 
-this text is *italics*
-This text it ***bold and italics***
+this text is _italics_
+
+This text it **_bold and italics_**
