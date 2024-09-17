@@ -32,7 +32,8 @@ This is a link to my portfolio [My Portfolio](https://google.ca).
 
 ## Images:
 
-![Yellow Tulips](tulips.jpg).
+<!-- ![Yellow Tulips](tulips.jpg). -->
+<img src="tulips.jpg" width="200">
 
 
 ## Code:
